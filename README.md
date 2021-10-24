@@ -1,10 +1,10 @@
-# Filmstar list
+# Quick Online Dashboard
 
 ![Version](https://img.shields.io/badge/version-1.0-orange)
 ![license](https://img.shields.io/github/license/papatekken/quick-data-dashboard)
 ![GatsbyJS](https://img.shields.io/badge/GatsbyJS-2.23.12-blue)
 
-- Report Portal by GatsbyJS reading Excel file
+- Online Dashboard reading from Excel file by using GatsbyJS
 
 - Project for self learning GatsbyJS
 
